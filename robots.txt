@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://doctor-6qt.pages.dev/sitemap.xml
